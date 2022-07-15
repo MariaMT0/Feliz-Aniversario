@@ -304,7 +304,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("img");
-  ifrm.setAttribute("src", "./src/Regalo Gordito/gordito_comicPopArt.png");
+  ifrm.setAttribute("src", "./src/Regalo Gordito/gordito.jpeg");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
